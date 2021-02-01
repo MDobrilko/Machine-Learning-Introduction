@@ -1,0 +1,5 @@
+
+.vscode/settings.json
+*.csv
+data/microchip_tests.txt
+data/.ipynb_checkpoints/link-checkpoint.txt
